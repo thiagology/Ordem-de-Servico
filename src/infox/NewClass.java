@@ -10,5 +10,5 @@ package infox;
  * @author thiago
  */
 public class NewClass {
-    
+    //test
 }
